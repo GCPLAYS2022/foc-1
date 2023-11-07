@@ -90,7 +90,7 @@ const profiles = [
   {
     name: "Gian Dorian",
     title: "Professional League Player and Minecraft Modpack Maker",
-    biography: "I'm a League of Legends enjoyer and I love playing/creating Minecraft modpacks ^w^. I'm always finding new ways to improve any techy skills that I can and I wish to learn more about coding and photoshop! :3 Gaming is my favorite pass time!",
+    biography: "I appreciate League of Legends and enjoy playing/creating Minecraft modpacks ^w^. I'm always looking for new methods to better my computer skills, and I'd like to learn more about coding and Photoshop!:3 My favorite pastime is gaming.!",
     image: "/team/gd-avatar.jpg",
     github: "https://github.com/gcplays2022",
     project: "https://gcplays2022.github.io/foc/"
